@@ -1,0 +1,204 @@
+/* mobile */
+@media (min-width:320px) 
+{
+   /* about */
+            .about-col{
+                width:100%;
+            }
+            .about-row{
+                width: 100%;
+                display: flex;
+                flex-wrap: wrap;
+                
+            }
+			.about-col-card {
+						width:100%;
+			}
+			
+/*skill*/
+            .skill-row{
+                width: 100%;
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .skill-col{
+                width:100%;
+              
+            }
+            #html{
+                width:80%;
+            }
+            #css{
+                width:70%;
+            }
+            #javascript{
+                width:40%;
+            }
+            #reactjs{
+                width:60%;
+            }
+            .my-creation-row{
+                display: flex;
+                width: 100%;
+                flex-wrap: wrap;
+            }
+            .my-creation-col{
+                width:100%;
+              }
+            .my-creation-col{
+                padding-top:50px;
+              }
+              /* contact */
+            .contact-row{
+                width: 100%;
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .contact-col{
+                width:100%;
+                
+                
+            
+              }
+              #about-right-img{
+                padding-top:20px;
+              }
+            
+   
+}
+
+/* ipad */
+@media(min-width:660px) 
+{
+   /* about */
+            .about-row{
+                width: 100%;
+                display: flex;
+                flex-wrap: wrap;
+                
+                }  
+                .about-col{
+                    width:100%;
+                }
+				.about-col-card {
+						width:100%;
+			}
+			
+				
+/* skill */
+            .skill-row{
+                width: 100%;
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .skill-col{
+                width:100%;
+              
+            }
+            #html{
+                width:80%;
+            }
+            #css{
+                width:70%;
+            }
+            #javascript{
+                width:40%;
+            }
+            #reactjs{
+                width:60%;
+            }
+            .my-creation-row{
+                display: flex;
+                width: 100%;
+                flex-wrap: wrap;
+            }
+            .my-creation-col{
+                width:100%;
+              }
+              /* contact */
+              .contact-row{
+                width: 100%;
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .contact-col{
+                width:100%;
+                
+                
+            
+              }
+              #about-right-img{
+                padding-top:20px;
+              }
+            
+   
+}
+
+/* lap */
+@media (min-width:960px) 
+{
+   /* about */
+        .about-col{
+            width:45%;
+        }
+
+        .about-row{
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            
+        }   
+		.about-col-card {
+						width:80%;
+			}
+			
+		
+/* skill */
+            .skill-row{
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+            }
+            .skill-col{
+                width: 45%;
+              
+            }
+            #html{
+                width:31%;
+            }
+            #css{
+                width:28%;
+            }
+            #javascript{
+                width:15%;
+            }
+            #reactjs{
+                width:20%;
+            }
+/* mycreation */
+            .my-creation-row{
+                display: flex;
+                width: 100%;
+            }
+            .my-creation-col{
+                width:45%;
+              }
+            /* contact */
+            .contact-row{
+                width: 100%;
+                display: flex;
+            }
+            
+            .contact-col{
+                width:45%;
+                
+                
+            
+              }
+              #about-right-img{
+                padding-top:37px;
+              }
+            
+              
+}
+/*background-image: linear-gradient(#ca1eb3, #FD2E24, #FFD701 70%);
